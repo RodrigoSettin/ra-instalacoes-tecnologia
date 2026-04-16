@@ -75,38 +75,30 @@ Atuação realizada respeitando critérios de confidencialidade.
 
 ⚡ Projetos
 
-🔌 QGBT com Proteção Individual
+### 🔌 QGBT com Proteção Individual
+![QGBT](assets/imagens/residencial.jpg)  
+[Ver projeto](./Projetos/qgbt-protecao-individual)
+---
 
-"QGBT" (assets/imagens/residencial.jpg)
-"Ver projeto" (./Projetos/qgbt-protecao-individual)
+### 🤖 Automação Industrial (KUKA)
+![Automação](assets/imagens/automacao-painel-final.jpg)  
+[Ver projeto](./Projetos/Automacao-industrial-robots-kuka)
+---
+
+### ☀ Sistema Fotovoltaico
+![Fotovoltaico](assets/imagens/sistema-fotovoltaico.jpg)  
+[Ver projeto](./Projetos/sistemas-fotovoltaico)
+---
+
+### 🖥 Organização de CPD
+![CPD](assets/imagens/cpd-frontal-depois.jpg)  
+[Ver projeto](./Projetos/organizacao-cpd)
 
 ---
 
-🤖 Automação Industrial (KUKA)
-
-"Automação" (assets/imagens/automacao-painel-final.jpg)
-"Ver projeto" (./Projetos/Automacao-industrial-robots-kuka)
-
----
-
-☀ Sistema Fotovoltaico
-
-"Fotovoltaico" (assets/imagens/sistema-fotovoltaico.jpg)
-"Ver projeto" (./Projetos/sistemas-fotovoltaico)
-
----
-
-🖥 Organização de CPD
-
-"CPD" (assets/imagens/cpd-frontal-depois.jpg)
-"Ver projeto" (./Projetos/organizacao-cpd)
-
----
-
-🔋 Carregador Veicular
-
-"Carregador" (assets/imagens/carregador-veicular.jpg)
-"Ver projeto" (./Projetos/carregador-veicular)
+### 🔋 Carregador Veicular
+![Carregador](assets/imagens/carregador-veicular.jpg)  
+[Ver projeto](./Projetos/carregador-veicular)
 
 ---
 
