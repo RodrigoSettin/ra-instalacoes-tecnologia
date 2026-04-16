@@ -33,3 +33,13 @@ Reorganização completa do CPD com identificação de cabos, padronização e m
 ## 🧠 Observação técnica
 
 A organização e padronização são essenciais para garantir confiabilidade e eficiência na operação de sistemas.
+
+
+## 📸 Execução
+
+### Antes
+![Antes](../../ativos/imagens/cpd-antes.jpg)
+
+### Depois
+![Frontal](../../ativos/imagens/cpd-frontal-depois.jpg)
+![Lateral](../../ativos/imagens/cpd-frontal-lateral-depois.jpg)
