@@ -42,4 +42,4 @@ A organização e padronização são essenciais para garantir confiabilidade e 
 
 ### Depois
 ![Frontal](../../assets/imagens/cpd-frontal-depois.jpg)
-![Lateral](../../assets/imagens/cpd-frontal-lateral-depois.jpg)
+![Lateral](../../assets/imagens/cpd-frontal-lateral-deppois.jpg)
