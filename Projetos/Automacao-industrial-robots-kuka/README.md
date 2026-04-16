@@ -1,8 +1,8 @@
 # 🤖 Instalação Elétrica e Integração de Robôs Industriais KUKA
 
-![Painel de automação industrial](../../ativos/imagens/automacao-painel-final.jpg)
+![Painel de automação industrial montado em campo](../../assets/imagens/automacao-painel-final.jpg)
 
-![Robôs industriais KUKA](../../ativos/imagens/kuka.jpg)
+![Robô industrial KUKA em operação](../../assets/imagens/Robots-kuka.jpg)
 
 ---
 
