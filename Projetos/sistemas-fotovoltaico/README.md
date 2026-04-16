@@ -1,6 +1,8 @@
 
 # ☀ Sistema Fotovoltaico
 
+![Placas](../../assets/imagens/sistema-fotovoltaico.jpg)
+
 ---
 
 ## 📌 Problema
