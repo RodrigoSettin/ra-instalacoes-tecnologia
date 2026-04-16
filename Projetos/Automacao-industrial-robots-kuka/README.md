@@ -1,5 +1,9 @@
 # 🤖 Instalação Elétrica e Integração de Robôs Industriais KUKA
 
+![Painel de automação industrial](../../ativos/imagens/automacao-painel-final.jpg)
+
+![Robôs industriais KUKA](../../ativos/imagens/kuka.jpg)
+
 ---
 
 ## 📌 Problema
@@ -36,3 +40,6 @@ Atuação também no suporte ao comissionamento e ajustes de automação de baix
 ## 🧠 Observação técnica
 
 A correta execução elétrica e integração de campo são fundamentais para garantir o desempenho, segurança e estabilidade de sistemas robotizados industriais.
+
+
+
