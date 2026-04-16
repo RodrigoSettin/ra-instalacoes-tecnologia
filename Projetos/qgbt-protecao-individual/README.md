@@ -1,6 +1,8 @@
 
 # 🔧 QGBT com Proteção Individual por Circuito
 
+
+![Painel](../../ativos/imagens/automacao-painel-final.jpg)
 ---
 
 ## 📌 Problema
