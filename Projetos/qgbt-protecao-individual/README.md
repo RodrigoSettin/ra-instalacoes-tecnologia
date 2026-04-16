@@ -2,7 +2,7 @@
 # 🔧 QGBT com Proteção Individual por Circuito
 
 
-![Painel](../../assets/imagens/automacao-painel-final.jpg)
+![Painel](../../assets/imagens/automacao-painel-sendo-fabricado.jpg)
 
 ![QGBT-residencial](../../assets/imagens/residencial.jpg)
 ---
