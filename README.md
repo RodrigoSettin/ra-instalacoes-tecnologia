@@ -78,16 +78,25 @@ Atuação realizada respeitando critérios de confidencialidade.
 ### 🔌 QGBT com Proteção Individual
 ![QGBT](assets/imagens/residencial.jpg)  
 [Ver projeto](./Projetos/qgbt-protecao-individual)
+
 ---
 
 ### 🤖 Automação Industrial (KUKA)
 ![Automação](assets/imagens/automacao-painel-final.jpg)  
 [Ver projeto](./Projetos/Automacao-industrial-robots-kuka)
+
+---
+### 🧠 Tecnologia e Dados
+
+📊 **Previsão de Demanda e Otimização de Estoque**  
+🔗 [Ver projeto](./Projetos/Tecnologia/Analise-demanda-de-estoque)
+
 ---
 
 ### ☀ Sistema Fotovoltaico
 ![Fotovoltaico](assets/imagens/sistema-fotovoltaico.jpg)  
 [Ver projeto](./Projetos/sistemas-fotovoltaico)
+
 ---
 
 ### 🖥 Organização de CPD
@@ -102,7 +111,6 @@ Atuação realizada respeitando critérios de confidencialidade.
 
 ---
 
-🚨 Precisa de um projeto elétrico ou automação?
 
 Entre em contato para uma análise técnica.
 
