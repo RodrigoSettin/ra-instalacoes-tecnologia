@@ -75,6 +75,13 @@ Atuação realizada respeitando critérios de confidencialidade.
 
 ⚡ Projetos
 
+### 🧠 Tecnologia e Dados
+
+📊 **Previsão de Demanda e Otimização de Estoque**  
+🔗 [Ver projeto](./Projetos/Tecnologia/Analise-demanda-de-estoque)
+
+---
+
 ### 🔌 QGBT com Proteção Individual
 ![QGBT](assets/imagens/residencial.jpg)  
 [Ver projeto](./Projetos/qgbt-protecao-individual)
@@ -84,12 +91,6 @@ Atuação realizada respeitando critérios de confidencialidade.
 ### 🤖 Automação Industrial (KUKA)
 ![Automação](assets/imagens/automacao-painel-final.jpg)  
 [Ver projeto](./Projetos/Automacao-industrial-robots-kuka)
-
----
-### 🧠 Tecnologia e Dados
-
-📊 **Previsão de Demanda e Otimização de Estoque**  
-🔗 [Ver projeto](./Projetos/Tecnologia/Analise-demanda-de-estoque)
 
 ---
 
@@ -111,7 +112,5 @@ Atuação realizada respeitando critérios de confidencialidade.
 
 ---
 
-
-Entre em contato para uma análise técnica.
 
 Soluções seguras, eficientes e executadas com responsabilidade técnica.
